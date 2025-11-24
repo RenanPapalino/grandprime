@@ -7,7 +7,7 @@ interface ChatWidgetProps {
 }
 
 // Using the logo URL provided in Logo.tsx
-const BOT_AVATAR_URL = "../assets/logo.jpg";
+const BOT_AVATAR_URL = "../public/logo.jpg";
 
 export const ChatWidget: React.FC<ChatWidgetProps> = ({ currentView = ViewState.HOME }) => {
   const [isOpen, setIsOpen] = useState(false);
