@@ -1,0 +1,7 @@
+{
+  "name": "Grand Prime Assessoria",
+  "description": "Portal contábil moderno com inteligência artificial, notícias automatizadas e foco em conversão.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
